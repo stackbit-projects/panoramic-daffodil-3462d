@@ -111,6 +111,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
+    subtitle: sub
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
