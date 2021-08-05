@@ -14,13 +14,13 @@
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Pricing",
+                "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Features",
+                "url": "/features",
                 "style": "link"
             },
             {
